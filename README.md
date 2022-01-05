@@ -1,3 +1,2 @@
 # puissance-4
-Puissance 4 sur terminal, un peu moche
-ça fonctionne plutôt bien :)
+Puissance 4 sur terminal, un peu moche mais ça fonctionne plutôt bien :)
